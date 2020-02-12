@@ -1,0 +1,94 @@
+<resources>
+    <!--    labels resource-->
+    <string name="app_name">exer2_sibor_b4l</string>
+    <string name="start">START</string>
+    <string name="retry">RETRY</string>
+    <string name="app_header"><b><i>Which Disney Princess are you?</i></b></string>
+    <string name="scroll_view">Find out which Disney Princess are you!</string>
+    <string name="start_header"><i>You are:</i></string>
+
+    <!--    character names resource-->
+    <string name="disney_princesses">Disney Princesses</string>
+    <string name="ariel_name">Ariel</string>
+    <string name="aurora_name">Aurora</string>
+    <string name="belle_name">Belle</string>
+    <string name="cinderella_name">Cinderella</string>
+    <string name="elsa_name">Elsa</string>
+    <string name="jasmine_name">Jasmine</string>
+    <string name="merida_name">Merida</string>
+    <string name="mulan_name">Mulan</string>
+    <string name="pocahontas_name">Pocahontas</string>
+    <string name="rapunzel_name">Rapunzel</string>
+    <string name="snow_white_name">Snow White</string>
+
+
+    <!--    descriptions resource (per character)-->
+    <!--    descriptions were taken from "https://disney.fandom.com/wiki/The_Disney_Wiki"-->
+
+    <string name="ariel_char">
+        Ariel is a bright, spirited, and headstrong mermaid princess with a strong passion for
+        adventure and exploration. Despite this, Ariel\'s selflessness, compassion and intuitive
+        way of thinking often resolve such problems, as she always takes full responsibility for
+        her actions.
+    </string>
+
+    <string name="aurora_char">
+        Aurora is a kind, elegant, graceful, angelic, and gentle person as well as a hopelessly
+        romantic one. Despite her innocence and apparent dependence on others\' actions and
+        opinions, Aurora isn\'t as passive or helpless as she may seem at first sight.
+    </string>
+
+    <string name="belle_char">
+        Belle has gained a significant amount of intelligence over the years due to her love
+        of books, which have provided her with an elevated vocabulary, an active imagination, and
+        an open mind. Despite all this, she doesn\'t have very many friends.
+    </string>
+
+    <string name="cinderella_char">
+        Cinderella declared herself independent and strong-willed by remaining kind-hearted and
+        self-loving. She makes the most of her misfortunes by remaining optimistic of the
+        possibilities of a brighter future.
+    </string>
+
+    <string name="elsa_char">
+        Elsa appears calm, reserved, regal, graceful and poised. Beneath this cool and collected
+        appearance, however, Elsa is quite turbulent. Elsa also has an altruistic disposition that
+        contributes to her compassion towards her people.
+    </string>
+
+    <string name="jasmine_char">
+        Jasmine is introduced as feisty and no-nonsense, with zero tolerance for anyone that
+        belittles her. Strong-willed and defiant, Jasmine is not afraid to speak her mind, nor will
+        she hesitate to stand up for what she believes is right.
+    </string>
+
+    <string name="merida_char">
+        Merida is a very bold, brave, daring, courageous, stubborn, rebellious, and headstrong girl
+        who does not fit the stereotypical princess role. She is very athletic, tends to be
+        ungraceful, has bad manners, and is extremely tomboyish.
+    </string>
+
+    <string name="mulan_char">
+        Mulan is a courageous, independent and an unselfish hero. She has a different level of
+        determination and known to be a quick thinker that sometimes makes her impulsive.
+    </string>
+
+    <string name="pocahontas_char">
+        Pocahontas is displayed as a noble, free-spirited, and highly spiritual young woman. She
+        expresses wisdom beyond her years and offers kindness and guidance to those around her. She
+        loves her homeland, adventure, and nature.
+    </string>
+
+    <string name="rapunzel_char">
+        Rapunzel is a spirited and determined young woman. Additional misfortunes born through
+        Rapunzel\'s upbringing would include such traits as anxiety and low self-esteem. Despite
+        being fearful, she pushes herself forward to pursue her ambitions.
+    </string>
+
+    <string name="snow_white_char">
+         Snow White is well known for her kindness and optimism - both of which act as her greatest
+        strengths, as they\'ve guided her safely through the various hardships faced throughout her
+        life. She is quick to charm. She can also be playful, and somewhat sassy.
+    </string>
+
+</resources>
